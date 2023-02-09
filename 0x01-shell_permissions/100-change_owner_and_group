@@ -1,2 +1,2 @@
 #!/bin/bash
-chown Amarachi:staff *
+chown amarachi:staff *
